@@ -1,3 +1,3 @@
-# Addietyn.github.io
+# Addieryn.github.io
 
 This is my First Page
