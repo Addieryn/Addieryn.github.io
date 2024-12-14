@@ -1,9 +1,6 @@
 # Addieryn.github.io
-
-# Resume
-
-## Summary
 Addie Dehmlow  
+## Summary
 Ability to learn and grow from experience and the people around me.  
 Dedicated learner and enjoy putting the work in.  
 Nearly always a smile on my face and works well with a team or independently.  
