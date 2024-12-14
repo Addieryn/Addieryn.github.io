@@ -1,4 +1,3 @@
-# Addieryn.github.io
 Addie Dehmlow  
 ## Summary
 Ability to learn and grow from experience and the people around me.  
