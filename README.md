@@ -1,4 +1,3 @@
-# Addieryn.github.io
 
 # Resume
 
@@ -80,7 +79,10 @@ Primarily worked with managing money and time as well as setting my own goals, o
 ## Soft Skills
 - Critical Thinking  
 - Communication  
-- Creativity  
+- Creativity
+
+# Addieryn.github.io
+
 - Motivation  
 - Adaptability  
 
